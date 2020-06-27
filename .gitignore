@@ -1,2 +1,4 @@
-/.idea
+.idea/libraries
+.idea/.name
+*.idea
 BriscaCore.iml
